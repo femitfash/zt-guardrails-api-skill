@@ -2,6 +2,10 @@
 
 A [Claude Code](https://claude.ai/claude-code) skill for integrating [ZeroTrusted.ai](https://zerotrusted.ai) guardrails into any application. Provides AI-powered PII detection, anonymization, deanonymization, hallucination checking, compliance validation, and audit logging.
 
+## Prerequisites
+
+> **You need a ZeroTrusted.ai account to use this skill.** Sign up for a free trial at **[zerotrusted.ai/signup](https://www.zerotrusted.ai/signup)** — no credit card required.
+
 ## What is a Claude Code Skill?
 
 Claude Code skills are markdown files that give Claude deep knowledge of specific APIs, patterns, and workflows. When loaded into a Claude Code session, this skill enables Claude to generate correct, production-ready ZeroTrusted.ai guardrails integration code for your project.
@@ -20,7 +24,7 @@ Claude Code skills are markdown files that give Claude deep knowledge of specifi
 
 ### 1. Get your API key
 
-Sign up at [zerotrusted.ai](https://zerotrusted.ai) and get your API key.
+Sign up for a **free trial** at [zerotrusted.ai/signup](https://www.zerotrusted.ai/signup) and get your API key from the dashboard.
 
 ### 2. Add to your environment
 
